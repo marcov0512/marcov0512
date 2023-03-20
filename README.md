@@ -2,6 +2,7 @@
 
 ## Soy Desarrollador del ERP JDEdwards
 
+<!-- This content will not appear in the rendered Markdown -->
 [![Website](https://img.shields.io/website?up_color=red&up_message=Visitar&url=https%3A%2F%2Fwww.youtube.com%2F)](https://www.youtube.com/)
 
 ## Mis Estadisticas son:
