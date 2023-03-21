@@ -26,7 +26,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
+[linkedin]: https://www.linkedin.com/in/marco-antonio-vega-araya-5968a52b/
 
 [instagram]: https://www.instagram.com/marcov0512/
 
