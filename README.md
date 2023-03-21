@@ -28,5 +28,5 @@
 
 [linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
 
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/
+[instagram]: https://www.instagram.com/marcov0512/
 
